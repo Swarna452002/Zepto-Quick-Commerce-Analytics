@@ -84,12 +84,13 @@ The analysis uses six interconnected tables:
 - Focus retention initiatives on repeat customers and encourage higher purchase frequency.
 - Monitor product quality, missing-item incidents and delivery delays to improve customer experience.
 
+## SQL Analysis
+
+The SQL analysis covers customer segmentation, revenue and order trends, product and category performance, delivery operations, and customer experience.
+
 ##  Power BI Dashboard
 
-The Power BI dashboard provides an interactive view of:
-
-- The dashboard provides an interactive view of business performance,
-customer behavior, product performance, and delivery operations.
+The dashboard provides an interactive view of business performance, customer behavior, product performance, and delivery operations.
 
 ### Executive Overview
 <img width="884" height="500" alt="image" src="https://github.com/user-attachments/assets/d240f662-97a6-49a6-acc1-8df39dd382ff" />
@@ -104,7 +105,7 @@ customer behavior, product performance, and delivery operations.
 <img width="884" height="498" alt="image" src="https://github.com/user-attachments/assets/0baeb6fa-f8a9-40e5-939b-44799d1aebf0" />
 
 
-##  Project Structure
+## Project Structure
 
 ```text
 Zepto-Quick-Commerce-Analytics/
@@ -113,6 +114,5 @@ Zepto-Quick-Commerce-Analytics/
 ├── SQL/
 │   └── zepto_analytics.sql
 ├── PowerBI/
-│   └── Zepto_Analytics.pbix
-└── PowerBI/
-    └── Zepto_Analytics.pdf
+│   ├── Zepto_Analytics.pbix
+│   └── Zepto_Analytics.pdf

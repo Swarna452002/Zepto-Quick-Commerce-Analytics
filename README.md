@@ -126,6 +126,15 @@ The dashboard provides an interactive view of business performance, customer beh
 - Rajasthan has the highest late-delivery rate at 51.11%.
 - Delivery time increases substantially with delivery distance.
 
+## Skills Demonstrated
+
+- SQL — Joins, aggregations, subqueries, CTEs, window functions, CASE statements
+- Data Analysis — Customer segmentation, trend analysis, basket analysis, performance analysis
+- Power BI — Data modeling, DAX, KPI development and dashboard design
+- Business Analytics — Revenue analysis, customer behavior, product performance and operational analysis
+- Data Visualization — Interactive dashboards and business-focused storytelling
+- Business Insights — Translating analysis into actionable recommendations
+
 ## Project Structure
 
 ```text

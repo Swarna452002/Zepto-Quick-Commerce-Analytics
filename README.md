@@ -137,7 +137,6 @@ The dashboard provides an interactive view of business performance, customer beh
 
 ## Project Structure
 
-```text
 Zepto-Quick-Commerce-Analytics/
 │
 ├── README.md

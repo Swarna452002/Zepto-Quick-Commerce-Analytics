@@ -94,26 +94,31 @@ The dashboard provides an interactive view of business performance, customer beh
 
 ### Executive Overview
 <img width="884" height="500" alt="image" src="https://github.com/user-attachments/assets/d240f662-97a6-49a6-acc1-8df39dd382ff" />
-**Key takeaways:**
+
+**Key takeaways**
+
 - 20K orders generated approximately ₹36.12M in revenue.
 - Average Order Value (AOV) is approximately ₹1,966.
 - Nearly half of deliveries are late, highlighting delivery reliability as a key operational challenge.
   
 ### Customer Analytics
 <img width="888" height="499" alt="image" src="https://github.com/user-attachments/assets/958d21c4-7223-4f61-9547-a92885061a0b" />
-**Key takeaways:**
+**Key takeaways**
+
 - Repeat customers form the largest customer segment with 5,442 customers.
 - Customer behavior indicates an opportunity to increase purchase frequency among one-time customers.
 
 ### Product & Category Analytics
 <img width="889" height="499" alt="image" src="https://github.com/user-attachments/assets/3c3155ef-730f-48f1-aaae-a410d68f5d13" />
-**Key takeaways:**
+**Key takeaways**
+
 - Baby Care is the highest-revenue category at approximately ₹9.26M.
 - A small group of products contributes significantly to overall category revenue.
 
 ### Delivery & Operations
 <img width="884" height="498" alt="image" src="https://github.com/user-attachments/assets/0baeb6fa-f8a9-40e5-939b-44799d1aebf0" />
-**Key takeaways:**
+**Key takeaways**
+
 - 49.68% of deliveries are late.
 - Rajasthan has the highest late-delivery rate at 51.11%.
 - Delivery time increases substantially with delivery distance.

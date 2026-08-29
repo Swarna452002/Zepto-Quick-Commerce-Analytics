@@ -137,11 +137,11 @@ The dashboard provides an interactive view of business performance, customer beh
 
 ## Project Structure
 
+
+```text
 Zepto-Quick-Commerce-Analytics/
 │
 ├── README.md
-├── PowerBI/
-│   ├── Zepto_Analytics.pbix
-│   └── Zepto_Analytics.pdf
-├── SQL/
-│   └── zepto_analytics.sql
+├── Zepto_Analytics.pbix
+├── Zepto_Analytics.pdf
+└── Zepto_Analytics.sql

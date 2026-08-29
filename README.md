@@ -103,6 +103,7 @@ The dashboard provides an interactive view of business performance, customer beh
   
 ### Customer Analytics
 <img width="888" height="499" alt="image" src="https://github.com/user-attachments/assets/958d21c4-7223-4f61-9547-a92885061a0b" />
+
 **Key takeaways**
 
 - Repeat customers form the largest customer segment with 5,442 customers.
@@ -110,6 +111,7 @@ The dashboard provides an interactive view of business performance, customer beh
 
 ### Product & Category Analytics
 <img width="889" height="499" alt="image" src="https://github.com/user-attachments/assets/3c3155ef-730f-48f1-aaae-a410d68f5d13" />
+
 **Key takeaways**
 
 - Baby Care is the highest-revenue category at approximately ₹9.26M.
@@ -117,6 +119,7 @@ The dashboard provides an interactive view of business performance, customer beh
 
 ### Delivery & Operations
 <img width="884" height="498" alt="image" src="https://github.com/user-attachments/assets/0baeb6fa-f8a9-40e5-939b-44799d1aebf0" />
+
 **Key takeaways**
 
 - 49.68% of deliveries are late.
